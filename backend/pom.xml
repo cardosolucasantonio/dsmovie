@@ -15,6 +15,7 @@
 	<description>Projeto criado na Semana Spring React</description>
 	<properties>
 		<java.version>17</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -62,6 +63,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-resources-plugin</artifactId>
                 <version>3.1.0</version>
+<!--                com a versão 3.2.0 não builda local, mas com a 3.1.0 sim      -->
             </plugin>
 		</plugins>
 	</build>
