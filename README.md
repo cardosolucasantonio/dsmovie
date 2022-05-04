@@ -1,4 +1,4 @@
-# dsmovie
+# DSMovie
 Projeto feito na Semana Spring React
 
 Alive in >  https://lucasantonio-dsmovie.netlify.app/
